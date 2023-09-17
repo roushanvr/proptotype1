@@ -1,6 +1,6 @@
 //package prototype1;
 
-public class Student implements prototype<Student> {
+public class Student implements Prototype<Student> {
     private String name;
     private int age;
     private double psp;
