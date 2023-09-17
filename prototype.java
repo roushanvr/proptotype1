@@ -1,6 +1,6 @@
-package prototype1;
+//package prototype1;
 
-public interface Prototype<T> {
+public interface prototype<T> {
     //T -> Generics.
     T clone();
 }

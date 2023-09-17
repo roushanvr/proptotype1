@@ -1,4 +1,4 @@
-package prototype1;
+//package prototype1;
 
 public class Client {
     private static void fillRegistry(StudentRegistry registry) {
